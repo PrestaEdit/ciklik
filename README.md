@@ -104,3 +104,5 @@ Les variables créées précédemment via le hook **actionGetProductPropertiesBe
 ```html
 <input type="checkbox" name="ciklik" value="1" {if $ciklik.selected} checked="checked"{/if}>
 ```
+
+(Only to open this PR)
